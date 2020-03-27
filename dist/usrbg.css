@@ -14,6 +14,12 @@
 	--user-background: url('https://i.imgur.com/pqdICWJ.gif');
 }
 
+/*Zerphy#5270*/
+
+[user_by_bdfdb*="302619958784032771"],
+[aria-label*="302619958784032771,"] {
+	--user-background: url('https://i.imgur.com/obpuhTb.jpg');
+}
 
 /*Spectra#7698*/
 
